@@ -1,1 +1,1 @@
-autocmd! BufRead,BufNewFile *.lc3 set filetype=lc3
+autocmd! BufRead,BufNewFile *.asm set filetype=lc3
